@@ -1,4 +1,4 @@
-# Wed de noticias colaborativas.
+# Web de noticias colaborativas.
 
 Implementar una API que permita gestionar noticias colaborativas, estilo reddit o menéame, donde los usuarios puedan registrarse y publicar una noticia en una serie de categorías temáticas fijas.
 
